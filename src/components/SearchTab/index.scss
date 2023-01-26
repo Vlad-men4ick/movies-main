@@ -1,0 +1,9 @@
+.search-tab {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
+  &__header {
+    margin: 0.5rem 0;
+  }
+}
